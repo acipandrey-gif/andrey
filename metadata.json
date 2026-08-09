@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Flower Animation",
+  "description": "An interactive blooming flower animation with spring physics for individual petals, customizable spring parameters, flower presets, and ambient effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
